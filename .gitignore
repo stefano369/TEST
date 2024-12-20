@@ -1,0 +1,24 @@
+#File temporanei degli editor
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+#File del sistema operativo
+.DS_Store
+Thumbs.db
+
+#File di log e core dump
+*.log
+core
+*.stackdump
+vgcore.*
+
+#Configurazioni personali o locali
+*.env
+.env.*
+.config
+
+#File di debug o profili di memoria
+*.dSYM/
